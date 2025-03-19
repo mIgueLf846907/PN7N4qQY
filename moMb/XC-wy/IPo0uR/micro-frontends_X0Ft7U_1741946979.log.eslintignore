@@ -11,5 +11,4 @@ src/components/base-component-handlebars/server.js
 src/components/base-component-jade/_package/**/*
 src/components/base-component-jade/server.js
 test/fixtures
-test/front-end
 test/configuration

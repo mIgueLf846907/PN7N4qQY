@@ -13,7 +13,6 @@
           "tsx",
           "c",
           "erb",
-          "markdown",
           "yaml",
         ],
         "plugins": ["line-numbers", "custom-class", "diff-highlight"]

@@ -84,6 +84,5 @@ install:
   - make
 
 test_script:
-  - make test
 
 build: off

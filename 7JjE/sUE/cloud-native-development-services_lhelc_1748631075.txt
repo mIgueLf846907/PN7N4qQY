@@ -27,7 +27,6 @@ clean:
 	rm -f $(BIN_DIR)/$(CLI_NAME)
 	@echo "Cleanup completed."
 
-# Run linter
 lint:
 	@echo "Running linter..."
 	golangci-lint run ./...
